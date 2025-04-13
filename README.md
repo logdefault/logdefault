@@ -51,7 +51,7 @@ Sou Kauã Coutinho, 21 anos, do Rio de Janeiro. Atualmente focado em desenvolvim
 
 [![Email](https://img.shields.io/badge/-contato@logdefault.com-D14836?style=for-the-badge&logo=gmail)](mailto:contato@logdefault.com)
 [![WhatsApp](https://img.shields.io/badge/-21_99773_4609-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5521997734609)
-[![Currículo](https://img.shields.io/badge/-📄_Currículo-00599C?style=for-the-badge&logo=adobe-acrobat-reader)](https://logdefault.com/cv.pdf)
+[![Currículo](https://img.shields.io/badge/-📄_Currículo-00599C?style=for-the-badge&logo=adobe-acrobat-reader)](https://logdefault.com/assets/cv.pdf)
 
 <div align="center" style="margin-top: 20px;">
   
