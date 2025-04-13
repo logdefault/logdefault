@@ -37,10 +37,10 @@ Sou Kauã Coutinho, 21 anos, do Rio de Janeiro. Atualmente focado em desenvolvim
 ### 🚀 Projetos Recentes
 
 1. **[Portfólio Logdefault](https://logdefault.com)**  
-   Plataforma pessoal com showcase de projetos e artigos técnicos usando Next.js e TypeScript
+   Plataforma pessoal com showcase de projetos.
 
 2. **[SIte de Hospedagem](https://urlhost.com.br/)**  
-   Backend escalável com Php + MongoDB + Docker + laravel
+
 
 3. **[Bot para Discord](https://github.com/logdefault/discord-bot)**  
    Bot multifuncional com Python  + Sql
