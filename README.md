@@ -1,8 +1,8 @@
 # 👨💻 Kauã Coutinho
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Software`**
 
-Sou Kauã Coutinho, 21 anos, do Rio de Janeiro. Atualmente focado em desenvolvimento web com experiência em projetos fullstack. Mantenho um portfólio ativo e compartilho conhecimento através de:
+Sou Kauã Coutinho, 21 anos, do Rio de Janeiro. Atualmente focado em desenvolvimento software com experiência em projetos fullstack. Mantenho um portfólio ativo e compartilho conhecimento através de:
 
 [![Portfólio](https://img.shields.io/badge/🌐-Portfólio-2CA5E0?style=for-the-badge&logo=google-chrome)](https://logdefault.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kau%C3%A3-coutinho-333561219/)
@@ -13,8 +13,6 @@ Sou Kauã Coutinho, 21 anos, do Rio de Janeiro. Atualmente focado em desenvolvim
 ### 🛠️ Stack Principal
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
@@ -41,14 +39,11 @@ Sou Kauã Coutinho, 21 anos, do Rio de Janeiro. Atualmente focado em desenvolvim
 1. **[Portfólio Logdefault](https://logdefault.com)**  
    Plataforma pessoal com showcase de projetos e artigos técnicos usando Next.js e TypeScript
 
-2. **[Sistema de Hospedagem](https://github.com/logdefault/hosting-system)**  
-   Backend escalável com Node.js + MongoDB + Docker
+2. **[SIte de Hospedagem](https://urlhost.com.br/)**  
+   Backend escalável com Php + MongoDB + Docker + laravel
 
 3. **[Bot para Discord](https://github.com/logdefault/discord-bot)**  
-   Bot multifuncional com Python + WebSocket + PostgreSQL
-
-4. **[E-commerce FullStack](https://github.com/logdefault/ecommerce)**  
-   Solução completa com React + TypeScript + Express
+   Bot multifuncional com Python  + Sql
 
 ---
 
