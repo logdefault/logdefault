@@ -40,8 +40,5 @@ Um projeto incrível que faz coisas maravilhosas usando tecnologias modernas! Lo
 
 <div style="background: #ffffff; padding: 2rem; border-radius: 15px; margin: 1rem 0;">
 
-## 📦 Instalação
-```bash
-npm install meu-projeto
-# ou
-yarn add meu-projeto
+
+
